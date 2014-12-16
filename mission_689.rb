@@ -3,6 +3,8 @@ require 'mechanize'
 require 'turbotlib'
 require 'pry'
 
+# MISSION: http://missions.opencorporates.com/missions/689
+
 INVESTMENT_FIRMS_SOURCE_URLS = [
   "http://www.hanfa.hr/EN/registar/2?&page=0",
   "http://www.hanfa.hr/EN/registar/2?&page=1"
